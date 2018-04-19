@@ -38,3 +38,5 @@ kanban管理工具：[github kanban](https://github.com/orgs/E-Order/projects/1)
 
 15331210-林紫勤：[github团队项目管理入门](https://blog.csdn.net/ulricalin/article/details/79948569)
 
+15331198-林津霞：[微信小程序技术学习](https://blog.csdn.net/KatharinLin/article/details/79921398)
+
