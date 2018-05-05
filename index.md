@@ -8,7 +8,7 @@
 ----|----|----|
 15331210  |林紫勤  |项目经理、UI工程师
 15331213  |刘芳  |后端工程师、质量保证经理
-15331236  |马朝露  |前端工程师、UI工程师
+15331236  |NooraMa  |前端工程师、UI工程师
 15331217  |刘亚男  |后端工程师、测试工程师
 15331198  |林津霞  |JavaScript工程师、测试工程师
 15331286  |谭逸韵  |前端工程师、测试工程师
@@ -43,6 +43,6 @@ kanban管理工具：[github kanban](https://github.com/orgs/E-Order/projects/1)
 <<<<<<< HEAD
 15331198-林津霞：[微信小程序技术学习](https://blog.csdn.net/KatharinLin/article/details/79921398)
 =======
-15331236-马朝露：[微信小程序项目结构](https://ltimmy.github.io/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E5%AD%A6%E4%B9%A0%E6%8A%A5%E5%91%8A/)
+15331236-NooraMa：[微信小程序项目结构](https://ltimmy.github.io/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E5%AD%A6%E4%B9%A0%E6%8A%A5%E5%91%8A/)
 >>>>>>> 0854bf0a60634adb9d49db1f5f27f826b6101d80
 
