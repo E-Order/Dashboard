@@ -37,6 +37,7 @@ examples:
 - ?animal_type_id=1：指定筛选条件
 # 七、状态码
 服务器向用户返回的状态码和提示信息，常见的有：
+
 1.200 OK - [GET]：服务器成功返回用户请求的数据，该操作是幂等的（Idempotent）。
 
 2.201 CREATED - [POST/PUT/PATCH]：用户新建或修改数据成功。
