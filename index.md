@@ -4,9 +4,9 @@
 ## 二、Team Profile(团队组建)
 团队名称：Cheers
 
-学号|姓名|角色|
+学号|github|角色|
 ----|----|----|
-15331210  |林紫勤  |项目经理、UI工程师
+15331210  |Ulricalin  |项目经理、UI工程师
 15331213  |刘芳  |后端工程师、质量保证经理
 15331236  |NooraMa  |前端工程师、UI工程师
 15331217  |刘亚男  |后端工程师、测试工程师
@@ -38,7 +38,7 @@ kanban管理工具：[github kanban](https://github.com/orgs/E-Order/projects/1)
 
 15331217-刘亚男：[初识SpringBoot](https://south270.github.io/blog/2018/04/12/first-study-report/)
 
-15331210-林紫勤：[github团队项目管理入门](https://blog.csdn.net/ulricalin/article/details/79948569)
+15331210-Ulricalin：[github团队项目管理入门](https://blog.csdn.net/ulricalin/article/details/79948569)
 
 <<<<<<< HEAD
 15331198-林津霞：[微信小程序技术学习](https://blog.csdn.net/KatharinLin/article/details/79921398)
