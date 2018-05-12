@@ -6,15 +6,15 @@ layout: default
 
 &nbsp;&nbsp; 
 
-* 1、[About](https://github.com/E-Order/Dashboard/blob/master/document/About.md)（项目规划）
-* 2、[Team profile](02-team-profile)（团队组建）
-* 3、Investigation（项目前期调研）
-* 4、Vision（项目愿景）
-* 5、Product Backlog （产品特性）
+* 1、[About](https://github.com/E-Order/Dashboard/blob/master/document/About)（项目规划）
+* 2、[Team profile](https://github.com/E-Order/Dashboard/blob/master/document/Team_profile.md)（团队组建）
+* 3、[Investigation](https://github.com/E-Order/Dashboard/blob/master/document/Investigation.md)（项目前期调研）
+* 4、[Vision](https://github.com/E-Order/Dashboard/blob/master/document/Vision.md)（项目愿景）
+* 5、[Product Backlog](https://github.com/E-Order/Dashboard/blob/master/document/Product_Backlog.md)（产品特性）
 * 6、Requirement specification（需求规格说明）
-    - 6.1 Usecase Diagram（用例图）
-    - 6.2 Use Cases（用例+活动图）
-    - 6.3 Domian Model（领域模型）
+    - 6.1 [Usecase Diagram](https://github.com/E-Order/Dashboard/blob/master/document/graph/%E7%94%A8%E4%BE%8B%E5%9B%BE.png)（用例图）
+    - 6.2 [Use Cases]（用例+活动图）
+    - 6.3 [Domian Model]https://github.com/E-Order/Dashboard/blob/develop/document/graph/Eorder_domain_model.png（领域模型）
     - 6.4 State Model（状态模型）
     - 6.5 System Sequence Diagram（功能模型）
 * 7、Design（设计）
@@ -33,34 +33,7 @@ layout: default
 * X2 Tech/Work Report
     - 学号-title
 
-# index
-## 一、About(项目规划)
-[点击此处查看项目规划文档](https://github.com/E-Order/Dashboard/blob/master/document/About.md)
-## 二、Team Profile(团队组建)
-团队名称：Cheers
 
-学号|github|角色|
-----|----|----|
-15331210  |Ulricalin  |项目经理、UI工程师
-15331213  |Evene  |后端工程师、质量保证经理
-15331236  |NooraMa  |前端工程师、UI工程师
-15331217  |刘亚男  |后端工程师、测试工程师
-15331198  |林津霞  |JavaScript工程师、测试工程师
-15331286  |谭逸韵  |前端工程师、测试工程师
-15331209  |Deele  |后端工程师、测试工程师
-
-kanban管理工具：[github kanban](https://github.com/orgs/E-Order/projects/1)
-
-## 三、Investigation(项目前期调研)
-[点击此处查看前期调研报告](https://github.com/E-Order/Dashboard/blob/master/document/Investigation.md)
-## 四、Vision(项目愿景)
-[点击此处查看项目愿景报告](https://github.com/E-Order/Dashboard/blob/master/document/Vision.md)
-## 五、Product Backlog(产品特性)
-[点击此处查看产品特性](https://github.com/E-Order/Dashboard/blob/master/document/Product_Backlog.md)
-## 六、Requirement specification(需求规格说明)
-[点击此处查看用例图](https://github.com/E-Order/Dashboard/blob/master/document/graph/%E7%94%A8%E4%BE%8B%E5%9B%BE.png)
-
-[点击此查看领域建模图](https://github.com/E-Order/Dashboard/blob/develop/document/graph/Eorder_domain_model.png)
 ## 七、Design(设计)
 ## 八、生产规范指南
 ## 九、Meeting Recording
