@@ -30,6 +30,7 @@ layout: default
     - 8.2 REST API 设计规范
 * X1 meet_recording
     - inception meeting (yy/mm/dd)
+    - [点击此处查看会议记录](https://github.com/E-Order/Dashboard/blob/master/document/meet_recording.md)
 * X2 Tech/Work Report
     - 15331209-Deele：[Eclipse使用（Java基础）&Spring boot学习（一） ](https://blog.csdn.net/qq_32335095/article/details/79889667)
     - 15331213-Evene：[MySQL的下载安装及使用](https://blog.csdn.net/qq_35278061/article/details/79890250)
@@ -39,7 +40,5 @@ layout: default
     - 15331236-NooraMa：[微信小程序项目结构](https://ltimmy.github.io/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E5%AD%A6%E4%B9%A0%E6%8A%A5%E5%91%8A/)
 
 
-## 九、Meeting Recording
-[点击此处查看会议记录](https://github.com/E-Order/Dashboard/blob/master/document/meet_recording.md)
 
 
