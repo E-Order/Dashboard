@@ -11,3 +11,5 @@
 15331198  |林津霞  |JavaScript工程师、测试工程师
 15331286  |谭逸韵  |前端工程师、测试工程师
 15331209  |Deele  |后端工程师、测试工程师
+
+kanban管理工具：[github kanban](https://github.com/orgs/E-Order/projects/1)
