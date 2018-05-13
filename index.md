@@ -19,10 +19,8 @@ layout: default
     - 6.4 [State Model](https://github.com/E-Order/Dashboard/blob/master/document/Requirement_Specification/%E7%8A%B6%E6%80%81%E5%9B%BE.png?raw=true)（状态模型）
 
     - 6.5 System Sequence Diagram（功能模型）
-    
-    [点餐功能模型15331236](https://github.com/E-Order/Dashboard/blob/develop/document/order_ssd.png)
-    
-    [提交订单功能模型15331236](https://github.com/E-Order/Dashboard/blob/develop/document/post_order_ssd.png)
+        - 6.5.1 [点餐功能模型15331236](https://github.com/E-Order/Dashboard/blob/develop/document/order_ssd.png)
+        - 6.5.2 [提交订单功能模型15331236](https://github.com/E-Order/Dashboard/blob/develop/document/post_order_ssd.png)
 * 7、Design（设计）
     - 7.1 UI design
         - XX 用例 UI设计
