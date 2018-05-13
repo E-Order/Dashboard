@@ -40,7 +40,7 @@ layout: default
     - 15331213-Evene：[MySQL的下载安装及使用](https://blog.csdn.net/qq_35278061/article/details/79890250)
     - 15331217-south270：[初识SpringBoot](https://south270.github.io/blog/2018/04/12/first-study-report/)
     - 15331210-Ulricalin：[github团队项目管理入门](https://blog.csdn.net/ulricalin/article/details/79948569)
-    - 15331198-林津霞：[微信小程序技术学习](https://blog.csdn.net/KatharinLin/article/details/79921398)
+    - 15331198-KatharinaLin：[微信小程序技术学习](https://blog.csdn.net/KatharinLin/article/details/79921398)
     - 15331236-NooraMa：[微信小程序项目结构](https://ltimmy.github.io/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E5%AD%A6%E4%B9%A0%E6%8A%A5%E5%91%8A/)
     - 15331286-Valerie：[微信小程序(1)](https://blog.csdn.net/joker_yy/article/details/79947404)
 
