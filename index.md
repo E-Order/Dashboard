@@ -23,7 +23,7 @@ layout: default
         - 6.5.2 [提交订单功能模型15331236](https://github.com/E-Order/Dashboard/blob/develop/document/post_order_ssd.png)
 * 7、Design（设计）
     - 7.1 UI design
-        - XX 用例 UI设计
+        - [点餐 用例 UI设计(小程序端UI设计)](https://github.com/E-Order/Dashboard/blob/master/document/Design/UI_design/UI%20Design.md)
     - 7.2 Database design
         - 7.2.1 用户及权限系统数据库设计
         - 7.2.2 XX子系统数据课设计 
