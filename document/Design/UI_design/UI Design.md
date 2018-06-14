@@ -42,9 +42,19 @@
 ![用户中心界面][6]
 
 
+
+## **Version 2** ##
+#### **新增历史订单界面** ####
+
+模仿UE鲜果
+![用户中心界面][7]
+
+
   [1]: https://raw.githubusercontent.com/LTimmy/markdownPhotos/master/UI1.png
   [2]: https://raw.githubusercontent.com/LTimmy/markdownPhotos/master/UI2.png
   [3]: https://raw.githubusercontent.com/LTimmy/markdownPhotos/master/UI3.png
   [4]: https://raw.githubusercontent.com/LTimmy/markdownPhotos/master/UI4.png
   [5]: https://raw.githubusercontent.com/LTimmy/markdownPhotos/master/UI5.png
   [6]: https://raw.githubusercontent.com/LTimmy/markdownPhotos/master/UI6.png
+  [7]: https://raw.githubusercontent.com/LTimmy/markdownPhotos/master/UI7.png
+  
