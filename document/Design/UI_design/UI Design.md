@@ -47,7 +47,16 @@
 #### **新增历史订单界面** ####
 
 模仿UE鲜果
-![用户中心界面][7]
+![历史订单][7]
+
+  
+  
+  
+## **Version 3** ##
+#### **新增提交订单界面** ####
+
+购物车界面点击去支付跳转到此界面，可以选择线上支付与线下支付
+![提交订单][8]
 
 
   [1]: https://raw.githubusercontent.com/LTimmy/markdownPhotos/master/UI1.png
@@ -57,4 +66,6 @@
   [5]: https://raw.githubusercontent.com/LTimmy/markdownPhotos/master/UI5.png
   [6]: https://raw.githubusercontent.com/LTimmy/markdownPhotos/master/UI6.png
   [7]: https://raw.githubusercontent.com/LTimmy/markdownPhotos/master/UI7.png
+  [8]: https://raw.githubusercontent.com/LTimmy/markdownPhotos/master/UI8.png
+  
   
