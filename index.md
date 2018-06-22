@@ -20,8 +20,17 @@ layout: default
     - 6.4 [State Model](https://github.com/E-Order/Dashboard/blob/master/document/Requirement_Specification/%E7%8A%B6%E6%80%81%E5%9B%BE.png?raw=true)（状态模型）
 
     - 6.5 System Sequence Diagram（功能模型）
-        - 6.5.1 [点餐功能模型15331236](https://github.com/E-Order/Dashboard/blob/develop/document/order_ssd.png)
-        - 6.5.2 [提交订单功能模型15331236](https://github.com/E-Order/Dashboard/blob/develop/document/post_order_ssd.png)
+        - 6.5.1 [扫码15331210](https://github.com/E-Order/Dashboard/blob/master/document/Requirement_Specification/%E7%B3%BB%E7%BB%9F%E9%A1%BA%E5%BA%8F%E5%9B%BE/15331210_%E6%89%AB%E7%A0%81.png?raw=true)
+        - 6.5.2 [点餐功能模型15331236](https://github.com/E-Order/Dashboard/blob/develop/document/order_ssd.png)
+        - 6.5.3 [管理购物车15331209](https://github.com/E-Order/Dashboard/blob/master/document/Requirement_Specification/%E7%B3%BB%E7%BB%9F%E9%A1%BA%E5%BA%8F%E5%9B%BE/15331209_%E7%AE%A1%E7%90%86%E8%B4%AD%E7%89%A9%E8%BD%A6.png?raw=true)
+        - 6.5.4 [提交订单功能模型15331236](https://github.com/E-Order/Dashboard/blob/develop/document/post_order_ssd.png)
+        - 6.5.5 [处理付款15331213](https://github.com/E-Order/Dashboard/blob/master/document/Requirement_Specification/%E7%B3%BB%E7%BB%9F%E9%A1%BA%E5%BA%8F%E5%9B%BE/15331213_%E5%A4%84%E7%90%86%E4%BB%98%E6%AC%BE.md)
+        - 6.5.6 [添加商品15331217](https://github.com/E-Order/Dashboard/blob/master/document/Requirement_Specification/%E7%B3%BB%E7%BB%9F%E9%A1%BA%E5%BA%8F%E5%9B%BE/15331217-%E6%B7%BB%E5%8A%A0%E5%95%86%E5%93%81.png?raw=true)
+        - 6.5.7 [更新商品15331217](https://github.com/E-Order/Dashboard/blob/master/document/Requirement_Specification/%E7%B3%BB%E7%BB%9F%E9%A1%BA%E5%BA%8F%E5%9B%BE/15331217-%E6%9B%B4%E6%96%B0%E5%95%86%E5%93%81.png?raw=true)
+        - 6.5.8 [添加种类15331217](https://github.com/E-Order/Dashboard/blob/master/document/Requirement_Specification/%E7%B3%BB%E7%BB%9F%E9%A1%BA%E5%BA%8F%E5%9B%BE/15331217-%E6%B7%BB%E5%8A%A0%E7%A7%8D%E7%B1%BB.png?raw=true)
+        - 6.5.9 [删除商品15331198](https://github.com/E-Order/Dashboard/blob/master/document/Requirement_Specification/%E7%B3%BB%E7%BB%9F%E9%A1%BA%E5%BA%8F%E5%9B%BE/15331198_%E5%88%A0%E9%99%A4%E5%95%86%E5%93%81.PNG?raw=true)
+        - 6.5.10 [删除种类15331198](https://github.com/E-Order/Dashboard/blob/master/document/Requirement_Specification/%E7%B3%BB%E7%BB%9F%E9%A1%BA%E5%BA%8F%E5%9B%BE/15331198_%E5%88%A0%E9%99%A4%E5%95%86%E5%93%81%E7%A7%8D%E7%B1%BB.PNG?raw=true)
+        - 6.5.11 [查看订单15331286](https://github.com/E-Order/Dashboard/blob/master/document/Requirement_Specification/%E7%B3%BB%E7%BB%9F%E9%A1%BA%E5%BA%8F%E5%9B%BE/%E6%9F%A5%E7%9C%8B%E8%AE%A2%E5%8D%95_15331286.png?raw=true)
 * 7、Design（设计）
     - 7.1 UI design
         - [点餐 用例 UI设计(小程序端UI设计)](https://github.com/E-Order/Dashboard/blob/master/document/Design/UI_design/UI%20Design.md)
@@ -29,7 +38,7 @@ layout: default
         - 7.2.1 用户及权限系统数据库设计
         - 7.2.2 XX子系统数据课设计 
         - 7.2.x 第三方数据评审结果
-    - 7.3 API 设计
+    - 7.3 [API 设计](https://ordermeal.docs.apiary.io/#)
     - 7.4 [Software Architecture Document](https://github.com/E-Order/Dashboard/blob/master/document/Software%20Architecture%20Document.md)
 * 8、生产规范与指南
     - 8.1 XX 代码规范
