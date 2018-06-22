@@ -21,9 +21,9 @@ layout: default
 
     - 6.5 System Sequence Diagram（功能模型）
         - 6.5.1 [扫码15331210](https://github.com/E-Order/Dashboard/blob/master/document/Requirement_Specification/%E7%B3%BB%E7%BB%9F%E9%A1%BA%E5%BA%8F%E5%9B%BE/15331210_%E6%89%AB%E7%A0%81.png?raw=true)
-        - 6.5.2 [点餐功能模型15331236](https://github.com/E-Order/Dashboard/blob/develop/document/order_ssd.png)
+        - 6.5.2 [点餐15331236](https://github.com/E-Order/Dashboard/blob/develop/document/order_ssd.png?raw=true)
         - 6.5.3 [管理购物车15331209](https://github.com/E-Order/Dashboard/blob/master/document/Requirement_Specification/%E7%B3%BB%E7%BB%9F%E9%A1%BA%E5%BA%8F%E5%9B%BE/15331209_%E7%AE%A1%E7%90%86%E8%B4%AD%E7%89%A9%E8%BD%A6.png?raw=true)
-        - 6.5.4 [提交订单功能模型15331236](https://github.com/E-Order/Dashboard/blob/develop/document/post_order_ssd.png)
+        - 6.5.4 [提交订单15331236](https://github.com/E-Order/Dashboard/blob/develop/document/post_order_ssd.png?raw=true)
         - 6.5.5 [处理付款15331213](https://github.com/E-Order/Dashboard/blob/master/document/Requirement_Specification/%E7%B3%BB%E7%BB%9F%E9%A1%BA%E5%BA%8F%E5%9B%BE/15331213_%E5%A4%84%E7%90%86%E4%BB%98%E6%AC%BE.md)
         - 6.5.6 [添加商品15331217](https://github.com/E-Order/Dashboard/blob/master/document/Requirement_Specification/%E7%B3%BB%E7%BB%9F%E9%A1%BA%E5%BA%8F%E5%9B%BE/15331217-%E6%B7%BB%E5%8A%A0%E5%95%86%E5%93%81.png?raw=true)
         - 6.5.7 [更新商品15331217](https://github.com/E-Order/Dashboard/blob/master/document/Requirement_Specification/%E7%B3%BB%E7%BB%9F%E9%A1%BA%E5%BA%8F%E5%9B%BE/15331217-%E6%9B%B4%E6%96%B0%E5%95%86%E5%93%81.png?raw=true)
@@ -42,7 +42,7 @@ layout: default
     - 7.4 [Software Architecture Document](https://github.com/E-Order/Dashboard/blob/master/document/Software%20Architecture%20Document.md)
 * 8、生产规范与指南
     - 8.1 XX 代码规范
-    - 8.2 REST API 设计规范
+    - 8.2 [REST API 设计规范](https://github.com/E-Order/Dashboard/blob/master/document/REST_API_design_requirement.md)
 * X1 meet_recording
     - inception meeting (yy/mm/dd)
     - [点击此处查看会议记录](https://github.com/E-Order/Dashboard/blob/master/document/meet_recording.md)
