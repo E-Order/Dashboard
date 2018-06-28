@@ -59,14 +59,14 @@ class InnerClass {
 
   /** @param {number} foo */
   method(foo) {
-if (condition(foo)) {
-  try {
-// Note: this might fail.
-something();
-  } catch (err) {
-recover();
-  }
-}
+    if (condition(foo)) {
+      try {
+        // Note: this might fail.
+        something();
+      } catch (err) {
+        recover();
+      }
+    }
   }
 }
 ```
@@ -144,13 +144,13 @@ someMethod(foo, [
 ```javascript
 class Foo {
   constructor() {
-/** @type {number} */
-this.x = 42;
+    /** @type {number} */
+    this.x = 42;
   }
 
   /** @return {number} */
   method() {
-return this.x;
+    return this.x;
   }
 }
 
@@ -160,7 +160,7 @@ Foo.Empty = class {};
 foo.Bar = class extends Foo {
   /** @override */
   method() {
-return super.method() / 2;
+    return super.method() / 2;
   }
 };
 
@@ -180,21 +180,21 @@ prefix.something.reallyLongFunctionName('whatever', (a1, a2) => {
   // Indent the function body +2 relative to indentation depth
   // of the 'prefix' statement one line above.
   if (a1.equals(a2)) {
-someOtherLongFunctionName(a1);
+    someOtherLongFunctionName(a1);
   } else {
-andNowForSomethingCompletelyDifferent(a2.parrot);
+    andNowForSomethingCompletelyDifferent(a2.parrot);
   }
 });
 
 some.reallyLongFunctionCall(arg1, arg2, arg3)
-  .thatsWrapped()
-  .then((result) => {
-// Indent the function body +2 relative to the indentation depth
-// of the '.then()' call.
-if (result) {
-  result.use();
-}
-  });
+    .thatsWrapped()
+    .then((result) => {
+      // Indent the function body +2 relative to the indentation depth
+      // of the '.then()' call.
+      if (result) {
+        result.use();
+      }
+    });
 ```
 
 #### 2.2.5 交换语句
@@ -207,15 +207,15 @@ if (result) {
 ```javascript
 switch (animal) {
   case Animal.BANDERSNATCH:
-handleBandersnatch();
-break;
+    handleBandersnatch();
+    break;
 
   case Animal.JABBERWOCK:
-handleJabberwock();
-break;
+    handleJabberwock();
+    break;
 
   default:
-throw new Error('Unknown animal');
+    throw new Error('Unknown animal');
 }
 ```
 
@@ -235,14 +235,14 @@ throw new Error('Unknown animal');
 推荐:
 ```javascript
 currentEstimate =
-  calc(currentEstimate + x * currentEstimate) /
-2.0f;
+    calc(currentEstimate + x * currentEstimate) /
+        2.0f;
 ```
 
 不推荐:
 ```javascript
 currentEstimate = calc(currentEstimate + x *
-  currentEstimate) / 2.0f;
+    currentEstimate) / 2.0f;
 ```
 
 在前面的例子中，从最高到最低的语法级别如下：赋值，除法，函数调用，参数，数字常量。
@@ -294,24 +294,24 @@ currentEstimate = calc(currentEstimate + x *
 // “function”），但完全适合第二行。与非常长的作品
 // 函数名称，在没有重新加载的情况下重命名，空间不足。
 doSomething(
-descriptiveArgumentOne, descriptiveArgumentTwo, descriptiveArgumentThree) {
+    descriptiveArgumentOne, descriptiveArgumentTwo, descriptiveArgumentThree) {
   // ...
 }
 
 // 如果参数列表更长，则在80处换行。使用较少的垂直空间，
 // 但违反了矩形规则，因此不推荐。
 doSomething(veryDescriptiveArgumentNumberOne, veryDescriptiveArgumentTwo,
-tableModelEventHandlerProxy, artichokeDescriptorAdapterIterator) {
+    tableModelEventHandlerProxy, artichokeDescriptorAdapterIterator) {
   // ...
 }
 
 // 四行，每行一个参数。使用长功能名称，
 // 保留重命名，并强调每个参数。
 doSomething(
-veryDescriptiveArgumentNumberOne,
-veryDescriptiveArgumentTwo,
-tableModelEventHandlerProxy,
-artichokeDescriptorAdapterIterator) {
+    veryDescriptiveArgumentNumberOne,
+    veryDescriptiveArgumentTwo,
+    tableModelEventHandlerProxy,
+    artichokeDescriptorAdapterIterator) {
   // ...
 }
 ```
@@ -417,7 +417,7 @@ const a4 = [];
 return {
   stuff: 'candy',
   method() {
-return this.stuff;  // Returns 'candy'
+    return this.stuff;  // Returns 'candy'
   },
 };
 ```
@@ -428,11 +428,11 @@ return this.stuff;  // Returns 'candy'
 ```javascript
 class {
   getObjectLiteral() {
-this.stuff = 'fruit';
-return {
-  stuff: 'candy',
-  method: () => this.stuff,  // Returns 'fruit'
-};
+    this.stuff = 'fruit';
+    return {
+      stuff: 'candy',
+      method: () => this.stuff,  // Returns 'fruit'
+    };
   }
 }
 ```
@@ -521,7 +521,7 @@ function variadic(array, ...numbers) {}
 普通字符串文字不能跨越多行。
 
 #### 3.5.2 模板字符串
-使用模板字符串（用分隔```）复杂字符串连接，特别是涉及多个字符串文字时。模板字符串可能跨越多行。
+使用模板字符串（用分隔\`）复杂字符串连接，特别是涉及多个字符串文字时。模板字符串可能跨越多行。
 如果一个模板字符串跨越多行，它不需要遵循封闭块的缩进，尽管如果添加的空白不重要的话。
 
 例：
@@ -541,15 +541,15 @@ ${a} / ${b} = ${a / b}`;
 非法：
 ```javascript
 const longString = 'This is a very long string that far exceeds the 80 \
-column limit. It unfortunately contains long stretches of spaces due \
-to how the continued lines are indented.';
+    column limit. It unfortunately contains long stretches of spaces due \
+    to how the continued lines are indented.';
 ```
 
 建议：
 ```javascript
 const longString = 'This is a very long string that far exceeds the 80 ' +
-'column limit. It does not contain long stretches of spaces since ' +
-'the concatenated strings are cleaner.';
+    'column limit. It does not contain long stretches of spaces since ' +
+    'the concatenated strings are cleaner.';
 ```
 
 ### 3.6 数字
@@ -654,8 +654,8 @@ for (var i = 0; i < 3; ++i) {
 function sillyFunction() {
   var count = 0;
   for (var x in y) {
-// "count" could be declared here, but don't do that.
-count++;
+    // "count" could be declared here, but don't do that.
+    count++;
   }
   console.log(count + ' items in y');
 }
