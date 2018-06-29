@@ -19,6 +19,7 @@ layout: default
     
     - 6.4 [State Model](https://github.com/E-Order/Dashboard/blob/master/document/Requirement_Specification/%E7%8A%B6%E6%80%81%E5%9B%BE.png?raw=true)（状态模型）
 
+
     - 6.5 System Sequence Diagram（功能模型）
         - 6.5.1 [扫码15331210](https://github.com/E-Order/Dashboard/blob/master/document/Requirement_Specification/%E7%B3%BB%E7%BB%9F%E9%A1%BA%E5%BA%8F%E5%9B%BE/15331210_%E6%89%AB%E7%A0%81.png?raw=true)
         - 6.5.2 [点餐15331236](https://github.com/E-Order/Dashboard/blob/master/document/Requirement_Specification/%E7%B3%BB%E7%BB%9F%E9%A1%BA%E5%BA%8F%E5%9B%BE/order_ssd.png?raw=true)
@@ -44,6 +45,8 @@ layout: default
     - 7.5 [Usecase design](https://github.com/E-Order/Dashboard/blob/master/document/Design/Use%20Case.md)
 * 8、生产规范与指南
     - 8.1 XX 代码规范
+        - 8.1.1 [JAVA代码规范](https://github.com/E-Order/Dashboard/blob/master/document/Java代码规范.md)
+        - 8.1.2[JavaScript规范](https://github.com/E-Order/Dashboard/blob/master/document/JavaScript代码规范(微信小程序).md)
     - 8.2 [REST API 设计规范](https://github.com/E-Order/Dashboard/blob/master/document/REST_API_design_requirement.md)
     - 8.3 [逻辑架构到应用程序映射指南]
     - 8.4 [物理架构云上部署 dock-compose.yml 文件编写与使用]
