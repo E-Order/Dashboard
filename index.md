@@ -41,7 +41,7 @@ layout: default
         - 7.2.x 第三方数据评审结果
     - 7.3 [API 设计](https://ordermeal.docs.apiary.io/#)
     - 7.4 [Software Architecture Document](https://github.com/E-Order/Dashboard/blob/master/document/Software%20Architecture%20Document.md)
-    - 7.5 [Usecase design]
+    - 7.5 [Usecase design](https://github.com/E-Order/Dashboard/blob/master/document/Design/Use%20Case.md)
 * 8、生产规范与指南
     - 8.1 XX 代码规范
     - 8.2 [REST API 设计规范](https://github.com/E-Order/Dashboard/blob/master/document/REST_API_design_requirement.md)
