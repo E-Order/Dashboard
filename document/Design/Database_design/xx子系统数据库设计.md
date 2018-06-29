@@ -1,4 +1,4 @@
-（一）用户点餐子系统数据库设计
+## （一）用户点餐子系统数据库设计
 
 (1)order_detail
 
@@ -84,4 +84,24 @@ CREATE TABLE `product_category` (
   KEY `index_seller_id` (`seller_id`),
   CONSTRAINT `category_seller_id` FOREIGN KEY (`seller_id`) REFERENCES `seller_info` (`seller_id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=8 DEFAULT CHARSET=utf8mb4
+```
+
+## （二）商家管理子系统数据库设计
+
+类似于用户点餐，都需要有订单和商品的表格。增加seller_info
+
+<img src= "https://raw.githubusercontent.com/E-Order/Dashboard/master/document/graph/seller_info.png">
+
+```
+CREATE TABLE `seller_info` (
+  `seller_id` varchar(32) NOT NULL,
+  `username` varchar(32) NOT NULL,
+  `password` varchar(32) NOT NULL,
+  `telephone` varchar(32) NOT NULL,
+  `address` varchar(64) NOT NULL,
+  `create_time` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP COMMENT '创建时间',
+  `update_time` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP COMMENT '修改时间',
+  PRIMARY KEY (`seller_id`),
+  UNIQUE KEY `username` (`username`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4
 ```
