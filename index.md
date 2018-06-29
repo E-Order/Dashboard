@@ -36,7 +36,7 @@ layout: default
     - 7.1 UI design
         - [点餐 用例 UI设计(小程序端UI设计)](https://github.com/E-Order/Dashboard/blob/master/document/Design/UI_design/UI%20Design.md)
     - 7.2 Database design
-        - 7.2.1 [用户及权限系统数据库设计](https://github.com/E-Order/Dashboard/blob/develop/document/Design/Database_design/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1.md)
+        - 7.2.1 [用户及权限系统数据库设计](https://raw.githubusercontent.com/E-Order/Dashboard/master/document/Design/Database_design/数据库设计.md)
         - 7.2.2 XX子系统数据库设计 
         - 7.2.x 第三方数据评审结果
     - 7.3 [API 设计](https://ordermeal.docs.apiary.io/#)
