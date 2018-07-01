@@ -1,0 +1,24 @@
+## 课程总结
+这学期初次感受了一个比较完整的软件开发周期，学习到了迭代式开发的相关知识与方法，也学习了一些项目管理的知识，对github使用更加熟悉，学习了三层架构，前后端分离的开发，在真正的技术实现上，负责的主要是商家客户端的开发，了解了vue+elementui的前端开发框架，以及学会解决前端开发中易出现的问题。
+
+## PSP 2.1 统计表
+
+![这里写图片描述](https://github.com/Ulricalin/hello-world/blob/master/photo/3.PNG)
+
+
+## 统计报告
+
+Dashboard
+
+![这里写图片描述](https://github.com/Ulricalin/hello-world/blob/master/photo/1.png)
+
+Front-End
+
+![这里写图片描述](https://github.com/Ulricalin/hello-world/blob/master/photo/2.png)
+
+##自认为最得意/或有价值/或有苦劳的工作清单
+	作为项目经理的协调统筹，组织跟进工作。
+
+## 个人的技术类、项目管理类博客清单
+CORS解决前端跨域问题https://blog.csdn.net/ulricalin/article/details/80822262
+github团队项目管理入门https://blog.csdn.net/ulricalin/article/details/79948569
