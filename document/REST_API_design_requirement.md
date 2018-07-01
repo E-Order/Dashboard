@@ -72,4 +72,5 @@ examples:
 - PATCH /collection/resource：返回完整的资源对象
 - DELETE /collection/resource：返回一个空文档
 
+
 以上文档参考：[RESTful API 设计指南](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
