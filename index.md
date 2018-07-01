@@ -14,7 +14,7 @@ layout: default
 * 5、[Product Backlog](https://github.com/E-Order/Dashboard/blob/master/document/Product_Backlog.md)（产品特性）
 * 6、Requirement specification（需求规格说明）
     - 6.1 [Usecase Diagram](https://github.com/E-Order/Dashboard/blob/master/document/graph/%E7%94%A8%E4%BE%8B%E5%9B%BE.png)（用例图）
-    - 6.2 [Use Cases](https://github.com/E-Order/Dashboard/blob/master/document/Requirement_Specification/Use%20Cases%EF%BC%88%E7%94%A8%E4%BE%8B%EF%BC%89.mds)（用例+活动图）
+    - 6.2 [Use Cases](https://github.com/E-Order/Dashboard/blob/master/document/Requirement_Specification/Use%20Cases%EF%BC%88%E7%94%A8%E4%BE%8B%EF%BC%89.md)（用例+活动图）
     - 6.3 [Domian Model](https://github.com/E-Order/Dashboard/blob/develop/document/graph/Eorder_domain_model.png)（领域模型）
     
     - 6.4 [State Model](https://github.com/E-Order/Dashboard/blob/master/document/Requirement_Specification/%E7%8A%B6%E6%80%81%E5%9B%BE.png?raw=true)（状态模型）
