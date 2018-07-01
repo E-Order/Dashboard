@@ -49,7 +49,7 @@ layout: default
         - 8.1.2[JavaScript规范](https://github.com/E-Order/Dashboard/blob/master/document/JavaScript代码规范(微信小程序).md)
     - 8.2 [REST API 设计规范](https://github.com/E-Order/Dashboard/blob/master/document/REST_API_design_requirement.md)
     - 8.3 [逻辑架构到应用程序映射指南]
-    - 8.4 [物理架构云上部署 dock-compose.yml 文件编写与使用]
+    - 8.4 [物理架构云上部署与使用](https://github.com/E-Order/Dashboard)
 
 * X1 meet_recording
     - inception meeting (yy/mm/dd)
