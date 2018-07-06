@@ -12,7 +12,7 @@ layout: default
 * 3、[Investigation](https://github.com/E-Order/Dashboard/blob/master/document/Investigation.md)（项目前期调研）
 * 4、[Vision](https://github.com/E-Order/Dashboard/blob/master/document/Vision.md)（项目愿景）
 * 5、[Product Backlog](https://github.com/E-Order/Dashboard/blob/master/document/Product_Backlog.md)（产品特性）
-* 6、Requirement specification（需求规格说明）
+* 6、[Requirement specification](https://github.com/E-Order/Dashboard/blob/master/document/Requirement_Specification/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6.md)（需求规格说明）
     - 6.1 [Usecase Diagram](https://github.com/E-Order/Dashboard/blob/master/document/graph/%E7%94%A8%E4%BE%8B%E5%9B%BE.png)（用例图）
     - 6.2 [Use Cases](https://github.com/E-Order/Dashboard/blob/master/document/Requirement_Specification/Use%20Cases%EF%BC%88%E7%94%A8%E4%BE%8B%EF%BC%89.md)（用例+活动图）
     - 6.3 [Domian Model](https://github.com/E-Order/Dashboard/blob/develop/document/graph/Eorder_domain_model.png)（领域模型）
