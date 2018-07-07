@@ -69,6 +69,6 @@ layout: default
     - [Answer](https://github.com/E-Order/modelling_practice/tree/master/answer)
     
 * 项目成果展示
-  - 微信小程序
+  - [微信小程序](https://github.com/E-Order/Dashboard/blob/master/eorder.gif)
   
-  ![](https://github.com/E-Order/Dashboard/blob/master/document/ls6i4-ae9kw.gif)
+ 
