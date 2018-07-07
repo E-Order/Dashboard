@@ -61,7 +61,7 @@
     - 7.2 Database design
         - 7.2.1 [用户及权限系统数据库设计](https://github.com/E-Order/Dashboard/blob/master/document/Design/Database_design/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1.md)
         - 7.2.2 [XX子系统数据库设计](https://github.com/E-Order/Dashboard/blob/master/document/Design/Database_design/xx子系统数据库设计.md) 
-        - 7.2.x 第三方数据评审结果
+        - 7.2.x [第三方数据评审结果](https://github.com/E-Order/Dashboard/issues/9)
     - 7.3 [API 设计](https://ordermeal.docs.apiary.io/#)
     - 7.4 [Software Architecture Document](https://github.com/E-Order/Dashboard/blob/master/document/Design/Software%20Architecture%20Document.md)
     - 7.5 [Usecase design](https://github.com/E-Order/Dashboard/blob/master/document/Design/Use%20Case%20Design.md)
@@ -70,7 +70,7 @@
         - 8.1.1 [JAVA代码规范](https://github.com/E-Order/Dashboard/blob/master/document/Java代码规范.md)
         - 8.1.2[JavaScript规范](https://github.com/E-Order/Dashboard/blob/master/document/JavaScript代码规范(微信小程序).md)
     - 8.2 [REST API 设计规范](https://github.com/E-Order/Dashboard/blob/master/document/REST_API_design_requirement.md)
-    - 8.3 [逻辑架构到应用程序映射指南]
+    - 8.3 [逻辑架构到应用程序映射指南](https://github.com/E-Order/Dashboard/blob/master/document/%E9%80%BB%E8%BE%91%E6%9E%B6%E6%9E%84%E5%88%B0%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E6%98%A0%E5%B0%84%E6%8C%87%E5%8D%97.md)
     - 8.4 [物理架构云上部署](https://github.com/E-Order/Dashboard/blob/gh-pages/DeploymentDocument.md)
 
 * X1 meet_recording
