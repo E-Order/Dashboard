@@ -67,7 +67,7 @@ CREATE TABLE `product_info` (
   CONSTRAINT `product_seller_id` FOREIGN KEY (`seller_id`) REFERENCES `seller_info` (`seller_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4
 ```
-(4)product_cate
+(4)product_categroy
 
 <img src= "https://raw.githubusercontent.com/E-Order/Dashboard/master/document/graph/product_cate.png">
 
