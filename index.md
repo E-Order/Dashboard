@@ -69,6 +69,13 @@ layout: default
     - [Answer](https://github.com/E-Order/modelling_practice/tree/master/answer)
     
 * 项目成果展示
-  - [微信小程序](https://github.com/E-Order/Dashboard/blob/master/eorder.gif)
+  
+  - 微信小程序
+  
+  ![](https://github.com/E-Order/Dashboard/blob/master/eorder.gif)
+  
+  - 商家web端
+  
+  ![](https://github.com/E-Order/Front-End/raw/master/%E5%95%86%E5%AE%B6%E7%AB%AFdemo.gif)
   
  
