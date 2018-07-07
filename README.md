@@ -32,5 +32,7 @@
 
 ![](https://github.com/E-Order/Front-End/blob/master/%E5%95%86%E5%AE%B6%E7%AB%AFdemo.gif)
 
+---
 
-# [目录](http://E-order.github.io/Dashboard)
+# [前往目录](http://E-order.github.io/Dashboard)
+
