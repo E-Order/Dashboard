@@ -34,12 +34,13 @@
 * 3、[Investigation](https://github.com/E-Order/Dashboard/blob/master/document/Investigation.md)（项目前期调研）
 * 4、[Vision](https://github.com/E-Order/Dashboard/blob/master/document/Vision.md)（项目愿景）
 * 5、[Product Backlog](https://github.com/E-Order/Dashboard/blob/master/document/Product_Backlog.md)（产品特性）
-* 6、Requirement specification（需求规格说明）
+* 6、[Requirement specification](https://github.com/E-Order/Dashboard/blob/master/document/Requirement_Specification/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6.md)（需求规格说明）
     - 6.1 [Usecase Diagram](https://github.com/E-Order/Dashboard/blob/master/document/graph/%E7%94%A8%E4%BE%8B%E5%9B%BE.png)（用例图）
-    - 6.2 [Use Cases](https://github.com/E-Order/Dashboard/blob/master/document/Requirement_Specification/Use%20Cases%EF%BC%88%E7%94%A8%E4%BE%8B%EF%BC%89.mds)（用例+活动图）
+    - 6.2 [Use Cases](https://github.com/E-Order/Dashboard/blob/master/document/Requirement_Specification/Use%20Cases%EF%BC%88%E7%94%A8%E4%BE%8B%EF%BC%89.md)（用例+活动图）
     - 6.3 [Domian Model](https://github.com/E-Order/Dashboard/blob/develop/document/graph/Eorder_domain_model.png)（领域模型）
     
     - 6.4 [State Model](https://github.com/E-Order/Dashboard/blob/master/document/Requirement_Specification/%E7%8A%B6%E6%80%81%E5%9B%BE.png?raw=true)（状态模型）
+
 
     - 6.5 System Sequence Diagram（功能模型）
         - 6.5.1 [扫码15331210](https://github.com/E-Order/Dashboard/blob/master/document/Requirement_Specification/%E7%B3%BB%E7%BB%9F%E9%A1%BA%E5%BA%8F%E5%9B%BE/15331210_%E6%89%AB%E7%A0%81.png?raw=true)
@@ -58,17 +59,19 @@
     - 7.1 UI design
         - [点餐 用例 UI设计(小程序端UI设计)](https://github.com/E-Order/Dashboard/blob/master/document/Design/UI_design/UI%20Design.md)
     - 7.2 Database design
-        - 7.2.1 [用户及权限系统数据库设计](https://github.com/E-Order/Dashboard/blob/develop/document/Design/Database_design/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1.md)
-        - 7.2.2 XX子系统数据库设计 
+        - 7.2.1 [用户及权限系统数据库设计](https://github.com/E-Order/Dashboard/blob/master/document/Design/Database_design/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1.md)
+        - 7.2.2 [XX子系统数据库设计](https://github.com/E-Order/Dashboard/blob/master/document/Design/Database_design/xx子系统数据库设计.md) 
         - 7.2.x 第三方数据评审结果
     - 7.3 [API 设计](https://ordermeal.docs.apiary.io/#)
-    - 7.4 [Software Architecture Document](https://github.com/E-Order/Dashboard/blob/master/document/Software%20Architecture%20Document.md)
-    - 7.5 [Usecase design]
+    - 7.4 [Software Architecture Document](https://github.com/E-Order/Dashboard/blob/master/document/Design/Software%20Architecture%20Document.md)
+    - 7.5 [Usecase design](https://github.com/E-Order/Dashboard/blob/master/document/Design/Use%20Case%20Design.md)
 * 8、生产规范与指南
     - 8.1 XX 代码规范
+        - 8.1.1 [JAVA代码规范](https://github.com/E-Order/Dashboard/blob/master/document/Java代码规范.md)
+        - 8.1.2[JavaScript规范](https://github.com/E-Order/Dashboard/blob/master/document/JavaScript代码规范(微信小程序).md)
     - 8.2 [REST API 设计规范](https://github.com/E-Order/Dashboard/blob/master/document/REST_API_design_requirement.md)
     - 8.3 [逻辑架构到应用程序映射指南]
-    - 8.4 [物理架构云上部署 dock-compose.yml 文件编写与使用]
+    - 8.4 [物理架构云上部署](DeploymentDocument.md)
 
 * X1 meet_recording
     - inception meeting (yy/mm/dd)
@@ -86,5 +89,6 @@
 * XX 建模练习
     - [Problem](https://github.com/E-Order/modelling_practice/blob/master/%E6%90%BA%E7%A8%8B%E7%81%AB%E8%BD%A6%E7%A5%A8%E9%A2%84%E8%AE%A2%E6%96%87%E6%A1%A3.md)
     - [Answer](https://github.com/E-Order/modelling_practice/tree/master/answer)
-* XX 项目gif
-    - [项目gif](https://github.com/E-Order/Dashboard/blob/master/document/ls6i4-ae9kw.gif)
+    
+* 项目成果展示
+  - [微信小程序](https://github.com/E-Order/Dashboard/blob/master/document/ls6i4-ae9kw.gif)
