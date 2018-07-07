@@ -25,7 +25,7 @@
 
 - 微信小程序效果展示
 
-![](https://github.com/E-Order/Dashboard/blob/master/document/ls6i4-ae9kw.gif)
+![](https://github.com/E-Order/Dashboard/blob/master/eorder.gif)
 
 
 - 商家web端展示
