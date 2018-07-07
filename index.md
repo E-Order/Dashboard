@@ -67,3 +67,8 @@ layout: default
 * XX 建模练习
     - [Problem](https://github.com/E-Order/modelling_practice/blob/master/%E6%90%BA%E7%A8%8B%E7%81%AB%E8%BD%A6%E7%A5%A8%E9%A2%84%E8%AE%A2%E6%96%87%E6%A1%A3.md)
     - [Answer](https://github.com/E-Order/modelling_practice/tree/master/answer)
+    
+* 项目成果展示
+  - 微信小程序
+  
+  ![](https://github.com/E-Order/Dashboard/blob/master/document/ls6i4-ae9kw.gif)
