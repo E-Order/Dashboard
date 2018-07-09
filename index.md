@@ -1,8 +1,4 @@
 
----
-layout: default
----
-
 # [](#TOC)目录
 
 &nbsp;&nbsp; 
@@ -46,14 +42,14 @@ layout: default
 * 8、生产规范与指南
     - 8.1 XX 代码规范
         - 8.1.1 [JAVA代码规范](https://github.com/E-Order/Dashboard/blob/master/document/Java代码规范.md)
-        - 8.1.2[JavaScript规范](https://github.com/E-Order/Dashboard/blob/master/document/JavaScript代码规范(微信小程序).md)
+        - 8.1.2[JavaScript代码规范](https://github.com/E-Order/Dashboard/blob/master/document/JavaScript代码规范(微信小程序).md)
+        - 8.1.3[Vue代码规范](https://github.com/E-Order/Dashboard/blob/master/document/Vue代码规范.md)
     - 8.2 [REST API 设计规范](https://github.com/E-Order/Dashboard/blob/master/document/REST_API_design_requirement.md)
     - 8.3 [逻辑架构到应用程序映射指南](https://github.com/E-Order/Dashboard/blob/master/document/%E9%80%BB%E8%BE%91%E6%9E%B6%E6%9E%84%E5%88%B0%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E6%98%A0%E5%B0%84%E6%8C%87%E5%8D%97.md)
     - 8.4 [物理架构云上部署](DeploymentDocument.md)
 
 * X1 meet_recording
-    - inception meeting (yy/mm/dd)
-    - [点击此处查看会议记录](https://github.com/E-Order/Dashboard/blob/master/document/meet_recording.md)
+    - [inception meeting](https://github.com/E-Order/Dashboard/blob/master/document/meet_recording.md)
 * X2 Tech/Work Report
     - 15331209-Deele：[Eclipse使用（Java基础）&Spring boot学习（一） ](https://blog.csdn.net/qq_32335095/article/details/79889667)
     - 15331213-Evene：[MySQL的下载安装及使用](https://blog.csdn.net/qq_35278061/article/details/79890250)
